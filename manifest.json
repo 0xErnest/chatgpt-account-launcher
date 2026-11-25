@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT 账号入口",
+  "version": "1.0.0",
+  "description": "打开 ChatGPT，或在无痕窗口通过官网登录另一个账号。",
+  "action": {
+    "default_title": "ChatGPT 账号入口",
+    "default_popup": "popup.html"
+  }
+}
